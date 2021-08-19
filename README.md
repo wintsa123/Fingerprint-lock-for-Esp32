@@ -3,6 +3,7 @@
 *支持小爱语音和指纹解锁。*  
 *Set.h保存接口和头文件，自己修改。*  
 *Arduino IDE工具编程，所需Library库已提供。*  
+![image]https://blog.csdn.net/qq_41638795/article/details/91377437
 
 	
 
